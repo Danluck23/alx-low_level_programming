@@ -1,13 +1,13 @@
-#include "main.h"
+#include "maim.h"
 /**
  * main - main
- * Return: 0
- */
+ *Return: 0
+*/
 
 int main(void)
 {
-int i:
-i = 0:
+int i;
+i = 98;
 
 positive_or_negative(i);
 
